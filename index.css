@@ -77,8 +77,17 @@ a.portfolio-block {
 a.portfolio-image {
   width:75%;
   margin: auto;
+  display:flex;
   
  
+}
+
+div.portfolio-image {
+   width:75%;
+   margin: 4vh auto;
+   height:10vh;
+   background-color:blue;
+
 }
 
 p.portfolio-title {
