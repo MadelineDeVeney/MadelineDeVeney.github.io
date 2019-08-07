@@ -1,0 +1,98 @@
+
+a {
+  text-decoration:none;
+}
+ul.menu {
+  display:flex;
+  flex-direction:row;
+  justify-content:space-around;
+  padding:0;
+  margin:0;
+}
+
+div.menu-container {
+  background-color:#98ff98;
+
+}
+div ul.menu a {
+  list-style-type:none;
+  font-family:'Fredoka One', sans-serif;
+  font-size: 2.5vh;
+  padding: 1vh 0 1.5vh 0;
+  width:33%;
+  text-align:center;
+  color:#051614;
+  border-radius:0 0 30px 30px;
+  background-color: #F1FFE7;
+}
+div ul.menu a:hover {
+  color:#00a5cf;
+}
+
+
+div.hero {
+  background: linear-gradient(#98ff98, #9fffcb);
+  height: 94vh;
+  padding:0;
+  margin:0;
+}
+
+p#introtext {
+  padding: 40.5vh 0 0 0;
+  font-style:italic;
+  font-size:7vh;
+ }
+p.title {
+  margin:0;
+  text-align:center;
+  padding: 5vh 0;
+  width:100%;
+  font-family: 'Fredoka One', serif;
+  font-size:5vh;
+  color: #051614;
+}
+
+
+section#portfolio {
+  background-color:#F1FFE7;
+}
+div.block-container{
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:space-between;
+  width:70%;
+  height:auto;
+  margin:auto;
+}
+
+a.portfolio-block {
+  background-color:#98ff98;
+  width:49.5%;
+  height:auto;
+  margin-bottom:1.6vh;
+  min-height:50px;
+}
+
+
+div.portfolio-image {
+  width:75%;
+  margin: 4vh auto;
+  height:30vh;
+  background-color:blue;
+}
+
+p.portfolio-title {
+  margin:auto;
+  text-align:center;
+  padding-bottom: 2vh;
+  width:90%;
+  font-family: 'Fredoka One', serif;
+  font-size:4vh;
+  color: #051614;
+}
+
+section#resume {
+  margin-top:7vh;
+  padding-bottom:7vh;
+  background-color:#98ff98;
+}
