@@ -75,7 +75,6 @@ a.portfolio-block {
 
 
 a.portfolio-image {
-  width:75%;
   margin: auto;
   display:flex;
   align-items:center;
@@ -114,4 +113,6 @@ section#resume {
   margin-top:7vh;
   padding-bottom:7vh;
   background-color:#98ff98;
+  display:flex;
+  align-items:center;
 }
