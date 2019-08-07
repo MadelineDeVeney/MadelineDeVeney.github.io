@@ -77,13 +77,14 @@ a.portfolio-block {
 a.portfolio-image {
   width:75%;
   margin: auto;
-  display:flex;
+  
   
  
 }
 
 a.portfolio-image image {
    margin:auto;
+
 }
 
 div.portfolio-image {
