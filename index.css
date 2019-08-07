@@ -85,7 +85,8 @@ a.portfolio-image {
 
 a.portfolio-image image {
    margin:auto;
-   display:block;
+   width:100%;
+display:block;
 
 
 }
