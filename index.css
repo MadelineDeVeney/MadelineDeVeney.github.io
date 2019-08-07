@@ -82,6 +82,10 @@ a.portfolio-image {
  
 }
 
+a.portfolio-image image {
+   margin:auto;
+}
+
 div.portfolio-image {
    width:75%;
    margin: 4vh auto;
