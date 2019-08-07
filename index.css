@@ -115,4 +115,5 @@ section#resume {
   background-color:#98ff98;
   display:flex;
   align-items:center;
+  flex-flow: row wrap;
 }
