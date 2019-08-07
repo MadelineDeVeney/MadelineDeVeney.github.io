@@ -77,6 +77,7 @@ a.portfolio-block {
 a.portfolio-image {
   width:75%;
   margin: auto;
+  display:block;
   
   
  
@@ -84,6 +85,8 @@ a.portfolio-image {
 
 a.portfolio-image image {
    margin:auto;
+   display:block;
+
 
 }
 
