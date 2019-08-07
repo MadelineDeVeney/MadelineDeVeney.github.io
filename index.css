@@ -74,11 +74,11 @@ a.portfolio-block {
 }
 
 
-div.portfolio-image {
+a.portfolio-image {
   width:75%;
-  margin: 4vh auto;
-  height:30vh;
-  background-color:blue;
+  margin: auto;
+  
+ 
 }
 
 p.portfolio-title {
